@@ -1,0 +1,27 @@
+.btn-sec {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
+.btn-sec .btn {
+  margin: 1rem;
+  width: 120px;
+}
+#slidebox {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+}
+#slidebox img {
+  width: auto;
+  height: 180px;
+}
